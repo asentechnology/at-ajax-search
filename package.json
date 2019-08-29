@@ -7,8 +7,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/asentechnology/at-lazy-loader.git"
+    "url": "git://github.com/asentechnology/at-ajax-search.git"
   },
   "scripts": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
 }

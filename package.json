@@ -1,0 +1,14 @@
+{
+  "name": "at-ajax-search",
+  "version": "1.0.0",
+  "description": "Builds a Wordpress plugin that provides an ajax-based search.",
+  "author": "Asen Technology",
+  "homepage": "https://www.asentechnology.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asentechnology/at-lazy-loader.git"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
